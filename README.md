@@ -21,5 +21,5 @@ Ensure you have Python 3.8 or higher installed on your operating system.
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/prabhat-bidalia/qr-tool.git
+git clone https://github.com/prabhat-bidalia/qr_tool.git
 cd qr-tool
