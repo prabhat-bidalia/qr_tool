@@ -1,4 +1,4 @@
-# QR Tool:Scanner & Generator
+# QR Tool : Scanner & Generator
 
 A lightweight, desktop utility built in Python using **Tkinter** and **OpenCV** that allows users to scan QR codes via a live webcam feed, upload QR images to extract data, and generate custom QR codes seamlessly.
 
